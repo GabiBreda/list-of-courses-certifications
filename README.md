@@ -4,9 +4,9 @@ Repositório para organizar cursos concluídos e certificações obtidas, manten
 
 ## Cursos e certificações
 
-| Curso ou certificação | Instituição | Conclusão | Carga horária | Credencial |
-|---|---|---|---:|---|
-|  |  |  |  |  |
+| Curso ou certificação | Instituição | Conclusão | Carga horária |
+|PHP do Zero a Maestria|Alura|25 Dezembro de 2025|8h|
+|  |  |  |  |
 
 ## Como adicionar um registro
 
