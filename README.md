@@ -8,6 +8,10 @@ Repositório para organizar cursos concluídos e certificações obtidas, manten
 |PHP do Zero a Maestria|Alura|25 Dezembro de 2025|8h|
 |  |  |  |  |
 
+| Curso ou certificação | Instituição | Conclusão | Carga horária |
+|---|---|---|---:|
+|PHP do Zero a Maestria|Alura|25 Dezembro de 2025|8h|
+
 ## Como adicionar um registro
 
 Preencha a tabela acima com o nome do curso ou certificação, a instituição responsável, a data de conclusão, a carga horária e, quando disponível, um link para o certificado ou a credencial.
