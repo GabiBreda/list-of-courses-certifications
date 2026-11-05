@@ -5,12 +5,10 @@ Repositório para organizar cursos concluídos e certificações obtidas, manten
 ## Cursos e certificações
 
 | Curso ou certificação | Instituição | Conclusão | Carga horária |
-|PHP do Zero a Maestria|Alura|25 Dezembro de 2025|8h|
-|  |  |  |  |
-
-| Curso ou certificação | Instituição | Conclusão | Carga horária |
 |---|---|---|---:|
-|PHP do Zero a Maestria|Alura|25 Dezembro de 2025|8h|
+|PHP do Zero a Maestria|Alura|5 de Novembro de 2026|36h|
+|Java primeiros passos|Alura|25 de Dezembro de 2025|8h|
+|Desenvolvimento Web Full Stack|Programador BR|12 de Junho|26h|
 
 ## Como adicionar um registro
 
