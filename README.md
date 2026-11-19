@@ -9,6 +9,7 @@ Repositório para organizar cursos concluídos e certificações obtidas, manten
 |PHP do Zero a Maestria|Alura|5 de Novembro de 2026|36h|
 |Java primeiros passos|Alura|25 de Dezembro de 2025|8h|
 |Desenvolvimento Web Full Stack|Programador BR|12 de Junho|26h|
+|curso.dev / web | Filipe Deschamps | 17 de Novembro de 2026|81h|
 
 ## Como adicionar um registro
 
